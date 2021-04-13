@@ -4,3 +4,8 @@
 
 작성된 내용은 [요기](https://github.com/seovalue/woowa_vacation/issues)에서 확인할 수 있어요오. 🙊
 
+#### 함께하는 크루
+
+<img src="https://avatars.githubusercontent.com/u/48251668?v=4"/>
+<img src="https://avatars.githubusercontent.com/u/48412963?v=4"/>
+
