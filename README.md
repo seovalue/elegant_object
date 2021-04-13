@@ -6,6 +6,6 @@
 
 #### 함께하는 크루
 
-<img src="https://avatars.githubusercontent.com/u/48251668?v=4"/>
-<img src="https://avatars.githubusercontent.com/u/48412963?v=4"/>
+<img src="https://avatars.githubusercontent.com/u/48251668?v=4" width="100px" heigth = "100px"/>
+<img src="https://avatars.githubusercontent.com/u/48412963?v=4" width="100px" heigth = "100px"/>
 
